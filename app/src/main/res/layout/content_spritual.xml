@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.fatima.myapplication.SpritualActivity"
+    tools:showIn="@layout/activity_spritual">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:text="Kalka Mandir"
+            android:textSize="30dp"
+            android:textAlignment="center"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/ka"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="@string/frag2_text_val4a" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:text="Nizamuddin Dargah"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:src="@drawable/ni"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="@string/frag2_text_val4b" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:text="Lotus Temple"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/lo"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="@string/frag2_text_val4c" />
+    </LinearLayout>
+
+
+
+</android.support.v4.widget.NestedScrollView>

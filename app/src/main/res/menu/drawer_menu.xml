@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fr1"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Overview" />
+
+    <item
+        android:id="@+id/fr2"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Places" />
+
+    <item
+        android:id="@+id/fr3"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="Recommended" />
+
+    <item
+        android:id="@+id/go"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Contact Us" />
+
+    <item
+        android:id="@+id/close"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Close this App" />
+</menu>

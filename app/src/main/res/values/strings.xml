@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Delhi Darshan</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <string name="frag1_text_val">
+        Delhi is a city where time travel is feasible. Step aboard your time machine (the sleek and efficient metro) and you can go from Old Delhi, where labourers haul sacks of spices and jewellers weigh gold on dusty scales, to modern New Delhi, with its colonial-era parliament buildings and penchant for high tea. Then on to the future: Gurgaon, a satellite city of skyscraping offices and glitzy malls.
+    This pulsating metropolis has a bigger population than Australia, and is one of the world\'s most polluted cities.
+        But woven into its rich fabric are moments of pure beauty: an elderly man threading temple marigolds; Sufi devotional songs; a boy flying a kite from a rooftop.
+    So don\’t be put off. Delhi is a city that has been repeatedly ravaged and reborn, with vestiges of lost empires in almost every neighbourhood. There\'s so much to experience here, it\'s like a country in itself.
+    </string>
+
+    <string name="frag1_text_val2">
+        At first glance, Delhi embodies all that is exasperating and chaotic about modern India. It can take nerves of steel to face the frenetic pace at which it whirls through daily life. But grant Delhi a more discerning gaze and you\’ll uncover a host of redeeming features.
+        Topping the list is Delhi\’s historical legacy, with the ruins of eight ancient cities peeking out through the city streets, from Islamic citadels and the mausoleums of Sufi saints, to the colonial flourishes of Edwin Lutyens in New Delhi. Taking the Delhi Tourism HoHo Bus is a handy way to time-travel across this ancient octet, but the Metro runs close to most of the historic sights.
+        Delhi\'s first foundations at Lal Kot
+        The Qutb Minar and mighty Mehrauli
+        Seeking Siri at Hauz Khas
+        The towering walls of Tughlaqabad
+        Fascinating Firoz Shah Kotla
+        The Purana Qila, heart of short-lived Shergarh
+        Finding Shajahanabad in the streets of Old Delhi
+        Navigating the colonial corners of New Delhi
+
+    </string>
+
+    <string name="frag2_text_val1">Famous for: History, Architecture, Photography.
+        Tickets: Entry fee is 35 INR for Indians and 500 INR for foreigners.
+        Light and Sound will cost about 80 INR for adults and 30 INR for children.
+        Opening Timings: Open Tue to Sun from sunrise to sunset. Light and Sound show at 6pm everyday
+        Duration: 1-2 hours.
+        Red Fort symbolizes the era of Mughal rule in India. The Fort, built in 1638, is a magnificent monument that captivates your attention and exhibits the show of architectural splendor of Mughals.
+        The 33m high walls of Red Fort are yet another special feature of the fort.
+
+        Things to Do in Red Fort:
+
+        Light and sound show.
+        Take a guided tour around the fort.
+</string>
+
+    <string name="frag2_text_val1b">
+        Humayun’s Tomb is a perfect example of marvelous Mughal creation.
+        The tomb is inspired by Taj Mahal and was built in the year 1570 and is a very popular tourist place of Delhi.
+        The monument houses the body of Humayun, the second Mughal emperor.
+        This tomb was the first completed structure of Mughal architecture in India and showcases the brilliance architects’ of that era had.
+        There is a beautiful garden built nearby of the tomb which adds to the beauty of the place.
+    </string>
+
+    <string name="frag2_text_val1c">
+        Tomb of Sikandar Lodi is situated in Lodhi gardens in Delhi and was built in 1517-1518 CE.
+        This monument is 100 meters away from the Bara Gumbad which is in village Khairur.
+        The construction of the tomb is purely based on Indo-Islamic style with octagonal design.
+        Main attraction is the encryption of Mughal architectural design and many foreign languages on the walls of the tomb.
+    </string>
+
+    <string name="title_activity_malls">Malls</string>
+
+
+    <string name="frag2_text_val3">Address : A-3, District Centre, Saket, New Delhi
+        Nearest Metro Station : Malviya Nagar
+        Select City Walk is the most visited and the biggest mall in Delhi! Timings of this Mall are from 10 am to 11 pm each day.
+        The amenities in this mall includes multiplex, kidszone, food court, cafes, restaurants and bars.
+        It serves almost all the top Indian &amp; Foreign brands. Hard Rock Cafe is one of the prime attraction of this Mall.
+        Not only does this mall serve people from Malviya Nagar but other nearby areas as well.
+        Even people from areas like Karol Bagh visit this mall as there are not many good malls in Delhi near Karol Bagh.
+    </string>
+
+    <string name="frag2_text_val3b">Address : Plot No – M 03, Sector 18, Noida, Uttar Pradesh 201301
+         Nearest Metro Station : Sector 18, Noida
+        DLF Mall of India is a comparatively new mall in Delhi NCR and is located in Sector-18, Noida.
+        Out of the all malls in Delhi and Noida, earlier Select City Walk and GIP Noida were the biggest.
+        Others call themselves as one of the biggest malls in Delhi NCR, DLF Mall of India claims to be the biggest of all.
+        It is spread over 2 million sq.ft. divided into 5 zones spread across 7 floors.
+        It has about 330 brands including 100 Fashion brands, along with 75 Food and
+        Beverages options, and a number of entertainment activities.
+    </string>
+
+
+    <string name="title_activity_haunted">Haunted Places</string>
+
+    <string name="frag2_text_val5a">
+        This is another Tughlaq era citadel built during the middle years of the 14th century. The most striking feature about the monument’s facade is its loneliness. William Dalrymple’s ‘Delhi’ begins with an account of the fort being occupied by a multitude of Djinns, invisible to the naked eye. Local folks congregate every Thursday at the fort and offer incense sticks, among other offerings, in order to calm the ruffled djinns. Please the spirits and you would have them at your eternal command.
+        But what if they refused to be cowed down by your imprecations?
+    </string>
+    <string name="frag2_text_val5b">
+        Located within the precincts of the Mehrauli Archaeological Park are the mausoleums of the 16th century sufi saints Jamali and Kamali. Though it is a popular place among the history buffs, it  also ranks among the most haunted places in Delhi. There is one  thing which is very famous about the place, or rather say infamous about the fort. Apart from the architectural grandiose that the place is, there are voices which call out to the visitors from the mazaar inside the central dome of the mausoleum.
+        People who visit this place always complain of an invisible gaze deftly following their movements.
+        Abnormal you say, eh?
+    </string>
+    <string name="frag2_text_val5c">
+        The lawyers at the Karkardooma Delhi Court have reported paranormal activities in the court premises.
+        A white, shadowy figure has been spotted by quite a few people here, which has given this place a tag of one of the haunted places in Delhi.
+        The City of Djinns is home to many other such places which are believed to be haunted.
+        Like the Khooni Darwaza near Kahmiri Gate where sons of the last Mughal emperor were brutally murdered by the British in full public glare, the Mutiny House near Kahsmiri Gate where Indian sepoys guilty of being involved in the uprising of 1857 were blown off by cannons and The Ridge near Timarpur, an extension of the Aravalli hill range. Dilliwalon, twisting the famous words of George Bush, if you have not visited these places then you are scared of ghosts.
+</string>
+
+
+    <string name="frag3_text_val1">
+        \'Akshardham\' means the divine abode of God.
+        It is hailed as an eternal place of devotion, purity and peace.
+        Swaminarayan Akshardham at New Delhi is a Mandir – an abode of God, a Hindu house of worship, and a spiritual and cultural campus dedicated to devotion, learning and harmony.
+        Timeless Hindu spiritual messages, vibrant devotional traditions and ancient architecture all are echoed in its art and architecture.The mandir is a humble tribute to Bhagwan Swaminarayan (1781- 1830), the avatars, devas and great sages of Hinduism.Each element of Akshardham echoes with spirituality – the Mandir, the Exhibitions and even the Gardens.The Akshardham mandir has over two hundred murtis, representing many of the spiritual stalwarts over many millennia. The spiritual premise of Akshardham is that each soul is potentially divine.
+        Whether we are serving the family, the country our neighbors or all living beings the world over , each service can help one move towards divinity.
+    </string>
+
+    <string name="frag3_text_val2">
+         Qutab Ud-Din-Aibak, founder of the Delhi Sultanate, started construction of the Qutub Minar\'s first storey around 1192.
+        In 1220, Aibak\'s successor and son-in-law Iltutmish completed a further three storeys.
+        In 1369, a lightning strike destroyed the top storey. Firoz Shah Tughlaq replaced the damaged storey, and added one more.
+        Sher Shah suri also added an entrance to this tower while he was ruling and Humayun was at an exile.
+        It derived its name from the Sufi saint Qutbuddin Bakhtiar Kaki whom Qutab Ud-Din-Aibak revered.
+        The Minar is surrounded by several historically significant monuments of the Qutab complex, including Quwwat-ul-Islam Mosque,
+        which was built at the same time as the Minar, and the much older Iron Pillar of Delhi.
+    </string>
+
+
+    <string name="frag3_text_val3">
+        The Lotus Temple, located in Delhi,
+        India, is a Baháí House of Worship that was dedicated in December 1986,
+        costing $10 million. Notable for its flowerlike shape, it has become a prominent attraction in the city.
+        Like all Baháí Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification.
+        The building is composed of 27 free-standing marble-clad "petals" arranged in clusters of three to form nine sides,
+        with nine doors opening onto a central hall with a height of slightly over 40 metres and a capacity of 2,500 people.
+         The Lotus Temple has won numerous architectural awards and has been featured in many newspaper and magazine articles.
+         A 2001 CNN report referred to it as the most visited building in the world
+    </string>
+
+    <string name="frag3_text_val4">
+        The Red Fort is a historic fort in the city of Delhi in India.
+        It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1856.
+        It is located in the center of Delhi and houses a number of museums.
+        In addition to accommodating the emperors and their households,
+        it was the ceremonial and political center of the Mughal state and the setting for events critically impacting the region.
+        The main gate, Lahore Gate, is one of the emotional and symbolic focal points of the modern Indian nation and attracts a major crowd on each Independence Day.
+        The vaulted arcade of Chatta Chowk, a bazaar selling tourist trinkets, leads into the huge fort compound.
+        Inside is a veritable treasure trove of buildings, including the Drum House, the Hall of Public Audiences,
+        the white marble Hall of Private Audiences, the Pearl Mosque, Royal Baths and Palace of Color.
+        An evening sound and light show re-creates events in India\'s history connected with the fort.
+
+
+    </string>
+    <string name="frag3_text_val5">
+        India Gate is a memorial to 70,000 soldiers of the Indian Army who died in the period 1914–21 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and elsewhere in the Near and the Far East, and the Third Anglo-Afghan War.
+        13,300 servicemen\'s names, including some soldiers and officers from the United Kingdom, are inscribed on the gate.
+        The India Gate, even though a war memorial, evokes the architectural style of the triumphal arch like the Arch of Constantine, outside the Colosseum in Rome, and is often compared to the Arc de Triomphe in Paris, and the Gateway of India in Mumbai.
+        It was designed by Sir Edwin Lutyens.
+    </string>
+
+    <string name="title_activity_historical_scrolling">Historical Places</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_akshardham1">Akshardham</string>
+
+
+    <string name="frag2_text_val1e">
+        This is another Tughlaq era citadel built during the middle years of the 14th century. The most striking feature about the monument’s facade is its loneliness. William Dalrymple’s ‘Delhi’ begins with an account of the fort being occupied by a multitude of Djinns, invisible to the naked eye. Local folks congregate every Thursday at the fort and offer incense sticks, among other offerings, in order to calm the ruffled djinns. Please the spirits and you would have them at your eternal command.
+        But what if they refused to be cowed down by your imprecations?
+    </string>
+    <string name="frag2_text_val1e2">
+        Located within the precincts of the Mehrauli Archaeological Park are the mausoleums of the 16th century sufi saints Jamali and Kamali. Though it is a popular place among the history buffs, it  also ranks among the most haunted places in Delhi. There is one  thing which is very famous about the place, or rather say infamous about the fort. Apart from the architectural grandiose that the place is, there are voices which call out to the visitors from the mazaar inside the central dome of the mausoleum.
+        People who visit this place always complain of an invisible gaze deftly following their movements. Abnormal you say, eh?
+    </string>
+    <string name="frag2_text_val1e3">
+        The lawyers at the Karkardooma Delhi Court have reported paranormal activities in the court premises.
+        A white, shadowy figure has been spotted by quite a few people here,
+        which has given this place a tag of one of the haunted places in Delhi.
+        The City of Djinns is home to many other such places which are believed to be haunted.
+        Like the Khooni Darwaza near Kahmiri Gate where sons of the last Mughal emperor were brutally murdered by the British in full public glare,
+        the Mutiny House near Kahsmiri Gate where Indian sepoys guilty of being involved in the uprising of 1857 were blown off by cannons and The Ridge near Timarpur, an extension of the Aravalli hill range. Dilliwalon, twisting the famous words of George Bush, if you have not visited these places then you are scared of ghosts.
+</string>
+    <string name="title_activity_spritual">Spiritual Places</string>
+
+    <string name="frag2_text_val4a">
+        Kalkaji Mandir, also known as Kalkaji Temple, is a Hindu mandir or temple, dedicated to the Hindu Goddess Kali. This temple (mandir) is situated in the southern part of Delhi, India, in Kalkaji, a locality that has derived its name from the temple and is located opposite Nehru Place business centre. The temple is accessible by public transport on Kalkaji Mandir (Delhi Metro) and is near Nehru Place bus terminus and Okhla railway station.[1][2][3] The general belief is that the image of the Goddess Kalka here is a self-manifested one, and that the shrine dates back to Satya Yuga when the Goddess Kalika had incarnated and killed the demon Raktabija along with other giant demons.
+        Kalka Mandir also known as Kalkaji mandir is a famous Hindu mandir, dedicated to Hindu Goddess Kali, located in the Delhi, India, near nehru place.
+        Kalka or Kalkaji Mandir is amongst the oldest and the most revered temples of India.[citation needed] The temple is dedicated to the goddess Kalka or Kali, an incarnation of Durga. It is also called Jayanti Peetha or Manokamna Siddha Peetha. "Manokamna" literally means desire, "siddha" means fulfillment, and "peetha" means shrine. So, it is believed to be the holy shrine where one gets the blessings of Maa Kalika Devi (Goddess or Mother Kalika) for the fulfillment of one's desires
+    </string>
+    <string name="frag2_text_val4b">
+        Hazrat Nizamuddin, was a Sufi saint of the Chishti Order and arguably one of the most famous Sufis on the Indian Subcontinent.[1] His predecessors were Fariduddin Ganjshakar, Qutbuddin Bakhtiyar Kaki and Moinuddin Chishti. In that sequence, they constitute the initial spiritual chain or silsila of the Chishti order, widely prevalent in the Indian subcontinent.
+        Nizamuddin Auliya, like his predecessors, stressed love as a means of realising God. For him his love of God implied a love of humanity. His vision of the world was marked by a highly evolved sense of religious pluralism and kindness.[2] It is claimed by the 14th century historiographer Ziauddin Barani that his influence on the Muslims of Delhi was such that a paradigm shift was effected in their outlook towards worldly matters. People began to be inclined towards mysticism and prayers and remaining aloof from the world.
+        At the age of twenty, Nizāmuddīn went to Ajodhan (the present Pakpattan Sharif in Pakistan) and became a disciple of the Sufi saint Fariduddin Ganjshakar, commonly known as Baba Farid. Nizāmuddīn did not take up residence in Ajodhan but continued with his theological studies in Delhi while simultaneously starting the Sufi devotional practices and the prescribed litanies. He visited Ajodhan each year to spend the month of Ramadan in the presence of Baba Farid. It was on his third visit to Ajodhan that Baba Farid made him his successor. Shortly after that, when Nizāmuddīn returned to Delhi, he received news that Baba Farid had died.
+
+    </string>
+    <string name="frag2_text_val4c">
+        The Lotus Temple, located in Delhi, India, is a Bahaí House of Worship that was dedicated in December 1986, costing $10 million.[1] Notable for its flowerlike shape, it has become a prominent attraction in the city. Like all Bahaí Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification. The building is composed of 27 free-standing marble-clad "petals" arranged in clusters of three to form nine sides,[2] with nine doors opening onto a central hall with a height of slightly over 40 metres[3] and a capacity of 2,500 people.[4] The Lotus Temple has won numerous architectural awards and has been featured in many newspaper and magazine articles.[5] A 2001 CNN report referred to it as the most visited building in the world.
+        The Bahá'í Faith teaches that a Bahá'í House of Worship should be a space for people of all religions to gather, reflect, and worship.[7] Anyone may enter the Lotus Temple irrespective of religious background, sex, or other distinctions, as is the case with all Bahá'í Houses of Worship.[7] The sacred writings of not only the Bahá'í Faith but also other religions can be read and/or chanted, regardless of language;[7] on the other hand, reading non-scriptural texts is forbidden, as are delivering sermons, lectures or fundraising. Musical renditions of readings and prayers can be sung by choirs but no musical instruments can be played inside. There is no set pattern for worship services, and ritualistic ceremonies are not permitted
+
+</string>
+    <string name="title_activity_mall">Malls</string>
+    <string name="title_activity_qutub__minar">Qutub Minar</string>
+    <string name="title_activity_lotuss">Lotus Temple</string>
+    <string name="title_activity_redf">Red Fort</string>
+    <string name="title_activity_india__gate">India Gate</string>
+    <string name="title_activity_garden">Gardens </string>
+
+
+    <string name="frag2_text_val2head1">
+        Garden of Five Senses
+    </string>
+
+    <string name="frag2_text_val2a">
+        The Garden of Five Senses is a park spread over 20 acres, in Saidul Ajaib village,
+        opposite Saket, near the Mehrauli heritage area in Delhi, India. Designed by Delhi architect,
+        Pradeep Sachdeva, the park was developed by Delhi Tourism and Transportation Development Corporation,
+        Delhi at a cost of Rs 10.5 crore (105,000,000 rupees), over a period of three years and opened in February 2003.
+        Partly built over a rocky terrain, the garden has various theme areas, including a section on the lines of Mughal Gardens, plus pools of water lilies, bamboo courts, herb gardens and solar energy park.
+    </string>
+
+    <string name="frag2_text_val2head2">
+        Japanese Park
+    </string>
+
+    <string name="frag2_text_val2b">
+        Japanese Park is located in the northwest Delhi in sector 11, Rohini.
+        Most convenient option for reaching there is through Delhi Metro.
+        The red line of Delhi Metro Network is functional for Rohini area, get down at Rithala Station or Rohini West Station,
+        and hire an auto rikshaw. This lush green park is maintained by Delhi Development Authority (DDA).
+        Abundant greenery, clean walking paths and lakes with colourful boats make Japenese Park an acclaimed picnic spot of Delhi. The park does not only engross the adults, but children too can indulge in gaming zones, play ground or jet-plane replica installed in the park. Japanese Park is surrounded by several malls and amusement parks as well. So, you have a huge variety for shopping and eating.Japanese park is ideal to visit in the evening or early in the morning to enjoy the sun rise and enchanting setting.
+    </string>
+
+    <string name="frag2_text_val2head3">
+       Mughal Garden
+    </string>
+
+    <string name="frag2_text_val2c">
+        Mughal Garden is one of the most significant historical gardens in Delhi.
+        It is located inside the Rashtrapati Bhawan Complex.
+        Mughal Garden is famous for the wide variety of flowers, some of which are rare and extinct.
+        Mughal Garden in Delhi is spread over an area of 13 acres and is a combination of the former Mughal style with that of the British style. Mughal Garden is designed by Sir Edwin Lutynes for Lady Harding.
+
+Mughal Garden is a British garden inspired by the Mughal style and that is why you can come across some Mughal style canals,
+        fountains and terraces. Mughal Garden is divided into 3 sections - rectangular, long and circular gardens also known as Pearl garden, Butterfly garden and Circular garden.
+
+Mughal Garden has 4 waterways with a lotus-shaped red sandstone made fountain at their intersection.
+        The whole Mughal Garden is a place of scenic beauty. You cannot take off your eyes away from its lush greenery.
+        Moreover, the colorful flowers adds up to the pleasure of your eyes.
+        Mughal Garden is distinct from other gardens in the sense that it comprises of a large variety of trees and flowers such as marigold,
+        rose, bougainvillea, sweet william, viscaria, etc.
+        Mughal Garden is open for public visit only in the months of February and March when the flowers are in their full bloom.
+        At Mughal Garden in Delhi, you can relax yourself amidst the nature\'s majestic beauty and silence.
+        Mughal Garden serves as the perfect destination for picnic in the spring.
+    </string>
+    <string name="title_activity_contact_">Contact Us</string>
+
+
+</resources>

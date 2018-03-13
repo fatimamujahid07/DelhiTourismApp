@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rel">
+    <!--android:background="#F8B8D0"-->
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/text_qutub1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:textAlignment="center"
+            android:text="Welcome to Delhi"
+            android:textSize="35dp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10sp" />
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:scaleType="matrix"
+                    android:src="@drawable/frnt1" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:scaleType="matrix"
+                    android:src="@drawable/lo" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:scaleType="matrix"
+                    android:src="@drawable/frnt2" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:scaleType="matrix"
+                    android:src="@drawable/frnt3" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:scaleType="matrix"
+                    android:src="@drawable/frnt4" />
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/text_qutub2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="10dp"
+            android:text="@string/frag1_text_val"
+            android:textSize="15sp"
+            android:textStyle="bold|italic"
+             />
+
+
+
+    </LinearLayout>
+</ScrollView>
+
+</RelativeLayout>

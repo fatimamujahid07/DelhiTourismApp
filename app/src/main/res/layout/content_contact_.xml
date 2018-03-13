@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.fatima.myapplication.Contact_Activity"
+    tools:showIn="@layout/activity_contact_">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Fatima Mujahid - 9461000493"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10sp" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:text="Prerna Shinha - 8271593606"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Neha kumari - 9891845611"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10sp" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Priyanka Kshetry - 8235611914"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10sp" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Marziya sarwar  - 9122407087"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10sp" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Chavi - 9711467133"/>
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

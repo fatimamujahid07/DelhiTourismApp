@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.fatima.myapplication.HistoricalScrollingActivity"
+    tools:showIn="@layout/activity_historical_scrolling"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:text="Red Fort"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/fort"/>
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:gravity="center"
+            android:text="@string/frag2_text_val1"
+            android:textAlignment="textStart"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            tools:ignore="RtlCompat" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:text="Humayun\’s Tomb"
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:srcCompat="@drawable/humayun"/>
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:gravity="center"
+            android:text="@string/frag2_text_val1b"
+            android:textAlignment="textStart"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            tools:ignore="RtlCompat" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:text="Lodi Tomb"
+            android:background="#F06292"
+            android:textColor="#F8F8FF"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:srcCompat="@drawable/lodi"/>
+
+
+        <TextView
+            android:id="@+id/his_txt2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:gravity="center"
+            android:textAlignment="textStart"
+            android:text="@string/frag2_text_val1c"
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            tools:ignore="RtlCompat" />
+
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
